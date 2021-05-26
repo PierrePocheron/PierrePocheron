@@ -14,7 +14,7 @@
   <br/>
 
   <a href="https://nodejs.org/" target="_blank" title="NodeJS"><img src="icons/nodejs.png" alt="Node" width="45" height="45"/></a>
-  <a href="https://expressjs.com/" target="_blank" title="ExpressJS"><img src="icons/expressjs.png" alt="ExpressJS" width="45" height="45"/></a>
+  <a href="https://expressjs.com/" target="_blank" title="ExpressJS"><img src="icons/expressjs.jpg" alt="ExpressJS" width="45" height="45"/></a>
   <a href="https://reactjs.org/" target="_blank" title="ReactJS"><img src="icons/react.png" alt="ReactJS" width="45" height="45"/></a>
   <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="icons/bootstrap.png" alt="Bootstrap" width="45" height="45"/></a>
   <a href="https://www.java.com/" target="_blank" title="Java"><img src="icons/java.png" alt="Java" width="45" height="45"/></a>
