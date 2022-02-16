@@ -30,18 +30,19 @@
   <a href="https://www.thymeleaf.org/" target="_blank" title="Thymeleaf"><img src="icons/thymeleaf.png" alt="Thymeleaf" width="45" height="45"/></a>
   <a href="https://twig.symfony.com/" target="_blank" title="Twig"><img src="icons/twig.png" alt="Twig" width="45" height="45"/></a>
   <a href="https://jinja.palletsprojects.com/" target="_blank" title="Jinja"><img src="icons/jinja.png" alt="Jinja" width="45" height="45"/></a>
-  
+
   <h3>Database : </h3>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="icons/mysql.png" alt="MySQL" width="45" height="45"/></a>
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.png" alt="MongoDB" width="45" height="45"/></a>
   <a href="https://redis.io/" target="_blank" title="Redis"><img src="icons/redis.png" alt="Redis" width="45" height="45"/></a>
   <a href="https://www.postgresql.org/" target="_blank" title="PostgresSQL"><img src="icons/postgressql.svg" alt="PostgresSQL" width="45" height="45"/></a>
-  
+
 
   <h3>Devops : </h3>
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.png" alt="Git" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="icons/docker.png" alt="Docker" width="45" height="45"/></a>
   <a href="https://www.travis-ci.com/" target="_blank" title="Travis"><img src="icons/travis.png" alt="Travis CI" width="45" height="45"/></a>
+  <a href="https://sonarcloud.io/" target="_blank" title="SonarCloud"><img src="icons/sonarCloud.svg" alt="SonarCloud" width="45" height="45"/></a>
 
   <h3>Environement : </h3>
   <a href="https://www.jetbrains.com/" target="_blank" title="JetBrains"><img src="icons/jetbrains.png" alt="JetBrains" width="45" height="45"/></a>
