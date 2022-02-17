@@ -1,7 +1,7 @@
 ### Hey, I'm Pierre Pocheron 👋
 
-- 🔭 I’m currently working for D4Care
-- 🌱 I’m currently learning Full-Stack technologies
+- 🔭 I'm currently working for D4Care
+- 🌱 I'm currently learning Full-Stack technologies
 - 💬 Ask me about Sneakers 👟
 - 📫 Add me on : [LinkedIn](https://www.linkedin.com/in/pierre-pocheron/)
 - 📨 Feel free to reach me on [pierre.pocheron@gmail.com](mailto:pierre.pocheron@gmail.com)
