@@ -36,7 +36,7 @@ SKILLS = {
 }
 CONTACT = {
     "Email": "pierre.pocheron@gmail.com",
-    "Website": "hoome.dev",
+    "Website": "pierrepocheron.fr",
     "LinkedIn": "in/pierre-pocheron",
 }
 # ------------------------------------------------------------------
